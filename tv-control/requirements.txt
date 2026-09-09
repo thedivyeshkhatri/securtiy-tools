@@ -1,0 +1,4 @@
+Requirements
+
+- pychromecast (pip install pychromecast)
+- Your machine and the Chromecast/TV must be on the same local network.
