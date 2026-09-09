@@ -5,7 +5,7 @@ mostly small, focused utilities for reconnaissance, automation, and
 exploring how devices/services behave, built and tested in my own lab
 environment.
 
-All work is performed in authorized, legal environments only — practice
+> All work is performed in authorized, legal environments only — practice
 platforms, labs, and in-scope programs.
 
 ## Tools
